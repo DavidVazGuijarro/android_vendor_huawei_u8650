@@ -101,6 +101,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8650/proprietary/lib/libomx_mp3dec_sharedlibrary.so:obj/lib/libomx_mp3dec_sharedlibrary.so \
     vendor/huawei/u8650/proprietary/lib/libomx_sharedlibrary.so:system/lib/libomx_sharedlibrary.so\
     vendor/huawei/u8650/proprietary/lib/libomx_sharedlibrary.so:obj/lib/libomx_sharedlibrary.so\
+	vendor/huawei/u8650/proprietary/lib/libstagefright_soft_aacdec.so:system/lib/libstagefright_soft_aacdec.so \
+	vendor/huawei/u8650/proprietary/lib/libstagefright_soft_aacdec.so:obj/lib/libstagefright_soft_aacdec.so \
     vendor/huawei/u8650/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
     vendor/huawei/u8650/proprietary/lib/libcommondefs.so:obj/lib/libcommondefs.so \
     vendor/huawei/u8650/proprietary/lib/libloc_api-rpc-qc.so:system/lib/libloc_api-rpc-qc.so \
